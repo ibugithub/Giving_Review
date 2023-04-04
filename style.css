@@ -1,0 +1,13 @@
+body{
+    width:80%;
+    display:box;
+    flex-direction:column;
+    padding:0 auto;
+    padding-left: 10%;
+    justify-content:center;
+
+    /* background: black; */
+}
+#title{
+    text-align: center;
+}
