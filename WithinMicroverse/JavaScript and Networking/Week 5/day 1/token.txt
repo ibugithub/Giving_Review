@@ -1,0 +1,6 @@
+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 
+
+
+ sh copy_github_board.sh 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 microverseinc curriculum-javascript ibugithub JavaScript_Capstone 
+
+    sh copy_github_board.sh <YOUR_GITHUB_AUTH_TOKEN> microverseinc curriculum-javascript <ibugithub> <JavaScript_Group_Capstone> 
