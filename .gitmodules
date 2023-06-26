@@ -1,0 +1,12 @@
+[submodule "WithinMicroverse/Week2/Day4/binary-search"]
+	path = WithinMicroverse/Week2/Day4/binary-search
+	url = https://github.com/microverse-students/binary-search-ibugithub
+[submodule "WithinMicroverse/React and Applicatgion Materials/week 2/Day 4/binary-search-ibugithub"]
+	path = WithinMicroverse/React and Applicatgion Materials/week 2/Day 4/binary-search-ibugithub
+	url = https://github.com/microverse-students/binary-search-ibugithub
+[submodule "WithinMicroverse/React and Applicatgion Materials/week 3/Day1/Redux-Basic"]
+	path = WithinMicroverse/React and Applicatgion Materials/week 3/Day1/Redux-Basic
+	url = https://github.com/ibugithub/Redux-Basic
+[submodule "WithinMicroverse/React and Applicatgion Materials/week 3/Day1/book_store"]
+	path = WithinMicroverse/React and Applicatgion Materials/week 3/Day1/book_store
+	url = https://github.com/ibugithub/Book-Store
